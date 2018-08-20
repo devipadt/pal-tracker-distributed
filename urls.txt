@@ -1,0 +1,6 @@
+https://registration-pal-dt.apps.pikes.pal.pivotal.io/users/7
+https://registration-pal-dt.apps.pikes.pal.pivotal.io/accounts?ownerId=7
+https://registration-pal-dt.apps.pikes.pal.pivotal.io/projects?accountId=7
+https://allocations-pal-dt.apps.pikes.pal.pivotal.io/allocations?projectId=7
+https://backlog-pal-dt.apps.pikes.pal.pivotal.io/stories?projectId=7
+https://timesheets-pal-dt.apps.pikes.pal.pivotal.io/time-entries?userId=7
